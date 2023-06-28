@@ -2,35 +2,35 @@
 ![Logo](./src/assets/rickmorty.jpg)
 
 
-This template should help get you started developing with Vue 3 in Vite.
+Esta plantilla fue creada en Vue3 haciendo uso de fetch para optener resultados de la api de Rick y Morty.
 
-## Recommended IDE Setup
+## Configuración IDE recomendada
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Configuración personalizada
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Véase [Referencia de configuración de Vite](https://vitejs.dev/config/).
 
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y cargar en caliente para el desarrollo
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar y minificar para producción
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lint con [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
