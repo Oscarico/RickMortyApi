@@ -2,7 +2,7 @@
 ![Logo](./src/assets/rickmorty.jpg)
 
 
-Esta plantilla fue creada en Vue3 Y Vite haciendo uso de fetch para optener resultados de la api de Rick y Morty.
+Esta plantilla fue creada en Vue3, Vite y Bootstrap5 haciendo uso de fetch para optener resultados de la api de Rick y Morty.
 
 ## Link de ejemplo
 https://rickandmortyosulaa.netlify.app/
